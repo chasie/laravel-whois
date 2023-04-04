@@ -6,14 +6,14 @@
  * @license http://www.larva.com.cn/license/
  */
 
-namespace Larva\Whois\Jobs;
+namespace Chasie\Whois\Jobs;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
 use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Queue\SerializesModels;
-use Larva\Whois\Whois;
+use Chasie\Whois\Whois;
 
 class RefreshJob implements ShouldQueue
 {

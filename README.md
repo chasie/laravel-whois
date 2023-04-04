@@ -17,7 +17,7 @@ Laravel 的 Whois 查询模块。
 ## Installation
 
 ```bash
-composer require larva/laravel-whois -vv
+composer require chasie/laravel-whois -vv
 ```
 
 ```bash

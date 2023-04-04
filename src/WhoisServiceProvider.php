@@ -6,7 +6,7 @@
  * @license http://www.larva.com.cn/license/
  */
 
-namespace Larva\Whois;
+namespace Chasie\Whois;
 
 use Illuminate\Support\ServiceProvider;
 

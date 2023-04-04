@@ -5,9 +5,9 @@
  * @link http://www.larva.com.cn/
  */
 
-namespace Larva\Whois;
+namespace Chasie\Whois;
 
-use Larva\Support\Exception\Exception;
+use Chasie\Support\Exception\Exception;
 
 /**
  * Class IllegalDomainException

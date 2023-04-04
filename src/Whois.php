@@ -5,7 +5,7 @@
  * @link http://www.larva.com.cn/
  */
 
-namespace Larva\Whois;
+namespace Chasie\Whois;
 
 use Illuminate\Support\Facades\Facade;
 use Iodev\Whois\Modules\Tld\TldInfo;

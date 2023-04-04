@@ -5,7 +5,7 @@
  * @link http://www.larva.com.cn/
  */
 
-namespace Larva\Whois;
+namespace Chasie\Whois;
 
 use Illuminate\Support\Carbon;
 use Iodev\Whois\Exceptions\ConnectionException;

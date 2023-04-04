@@ -5,13 +5,13 @@
  * @link http://www.larva.com.cn/
  */
 
-namespace Larva\Whois;
+namespace Chasie\Whois;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\Cache;
 use Iodev\Whois\Helpers\DomainHelper;
-use Larva\Support\IPHelper;
+use Chasie\Support\IPHelper;
 
 /**
  * Class Domain

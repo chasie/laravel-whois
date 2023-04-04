@@ -6,9 +6,9 @@
  * @license http://www.larva.com.cn/license/
  */
 
-namespace Larva\Whois\Tests;
+namespace Chasie\Whois\Tests;
 
-use Larva\Whois\WhoisQuery;
+use Chasie\Whois\WhoisQuery;
 
 class WhoisQueryTest extends TestCase
 {

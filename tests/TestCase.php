@@ -6,7 +6,7 @@
  * @license http://www.larva.com.cn/license/
  */
 
-namespace Larva\Whois\Tests;
+namespace Chasie\Whois\Tests;
 
 
 class TestCase extends \PHPUnit\Framework\TestCase
