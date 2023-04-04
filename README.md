@@ -25,6 +25,6 @@ php artisan migrate
 ```
 
 ```php
-    $info = \Larva\Whois\Whois::lookup('baidu.com', true);
-    $info = \Larva\Whois\Whois::lookupRaw('google.com');
+    $info = \Chasie\Whois\Whois::lookup('baidu.com', true);
+    $info = \Chasie\Whois\Whois::lookupRaw('google.com');
 ```
