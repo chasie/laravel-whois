@@ -13,7 +13,7 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('domains', function (Blueprint $table) {
+        Schema::create('domains_whois', function (Blueprint $table) {
             $table->id();
             $table->string('name')->unique()->comment('域名');
             $table->string('owner')->nullable()->comment('所有者');

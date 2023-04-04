@@ -38,14 +38,14 @@ class Domain extends Model
 
     const CREATED_AT = null;
 
-    const CACHE_TAG = 'domains:';
+    const CACHE_TAG = 'domains_whois:';
 
     /**
      * The table associated with the model.
      *
      * @var string
      */
-    protected $table = 'domains';
+    protected $table = 'domains_whois';
 
     /**
      * 允许批量赋值的属性
